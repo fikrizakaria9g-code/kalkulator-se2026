@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator SE2026-L",
+  "description": "Alat Bantu Perhitungan Sensus Ekonomi 2026 BPS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
